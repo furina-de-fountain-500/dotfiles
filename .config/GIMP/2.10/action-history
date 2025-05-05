@@ -1,0 +1,6 @@
+# GIMP action-history
+
+(history-item "tool-options-reset" 2)
+(history-item "brushes-refresh" 2)
+
+# end of action-history
